@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715279137 source:c:\users\heloisa\documents\heloisa\forca\forcaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+
+1715288069 source:c:\users\heloisa\documents\heloisa\forca\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+
